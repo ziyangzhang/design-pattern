@@ -4,3 +4,7 @@
 
 # Ignore "out" folder
 /out/
+
+
+# Ignore all compiled Java class files
+*.class
